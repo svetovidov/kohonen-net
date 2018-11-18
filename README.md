@@ -3,12 +3,12 @@
 This project is created for breaking data vectors into clusters, when number of classes is unknown beforehand.
 
 The project includes following files:
-netfunc.py
-netfunc.ipynb
-clustering.py
-clustering.ipynb
-480.csv
-README.md
+netfunc.py,
+netfunc.ipynb,
+clustering.py,
+clustering.ipynb,
+480.csv,
+README.md.
 
 - netfunc.py
 The file contains following functions:
