@@ -1,8 +1,8 @@
 # kohonen-net
 
-This project is created for breaking data vectors into clusters, when number of classes is unknown beforehand.
+This project is created for clustering data vectors into clusters, where the number of classes is unknown beforehand. The practical application was to cluster oil wells based on their parameters.
 
-The project includes following files:
+The project includes the following files:
 netfunc.py,
 netfunc.ipynb,
 clustering.py,
