@@ -1,4 +1,4 @@
-# kohonen-net
+# kohonenNet
 
 This project is created for clustering data vectors into clusters, where the number of classes is unknown beforehand. The practical application was to cluster oil wells based on their parameters.
 
